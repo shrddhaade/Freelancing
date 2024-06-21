@@ -1,6 +1,5 @@
 # Intrduction
-This repository contains projects which I have completed while freelancing
-
+This freelacing project involves data analysis and cleaning using R programming. The dataset used, NLS2023.csv, contains detailed information about individuals including variables such as Urban status, Siblings count, Ethnicity, Religion, Family Size, Height, Weight, and Income. The project objectives were to perform initial data inspection, clean the dataset by handling missing values and outliers, and conduct basic data transformations.
 Instructions:
 Place all work into a typed one-to-two page document. Upload both the document
 and the CleanNLS.csv dataset created in Problem 2e onto the Canvas homework page
@@ -28,6 +27,8 @@ lines of R code for this step.
 incomes. Give the line or lines of R code for this step.
 (c) (1pt) Apply the log transformation (either base e or base 10) to the incomes and
 add this as a column to the NLS2023 data frame. Give the line or lines of R code
+
+You can find the solutions in this repo.
 to perform these steps.
 (d) (1pt) Apply the square root transformation to heights and add this as a column
 to the NLS data frame. Give the line or lines of R code to perform these steps
